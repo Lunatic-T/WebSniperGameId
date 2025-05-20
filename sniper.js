@@ -86,7 +86,6 @@
     logContent.style.top = '40px';
     logContent.style.right = '110px';
 
-
     box.appendChild(document.createElement('br'));
 
     // Create buttons container
@@ -128,9 +127,6 @@
     Object.assign(button2.style, buttonStyle);
     Object.assign(button3.style, buttonStyle);
     Object.assign(title.style, buttonStyle);
-
-
-
 
     button1.addEventListener('mouseenter', () => {
         button1.style.background = 'rgba(100, 100, 100, 0.85)';
