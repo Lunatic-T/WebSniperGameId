@@ -4,7 +4,9 @@ Userscript based glitch sniper, with some node.js.
 # INSTALLATION
 Install [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 
-Once clicked Manage Extensions: at the top right there is "dev mode" turn it on if you didnt.
+Once Installed Tampermonkey, Click Manage Extensions
+
+At the top right there should be "Developer mode" Turn that on.
 
 ![image](https://github.com/user-attachments/assets/8d88716c-0de1-4a65-86b0-265547e32905)
 
