@@ -60,5 +60,6 @@ Go to Settings -> Apps -> Default apps -> Search Roblox and click "Roblox"
 
 ![image](https://github.com/user-attachments/assets/dff21140-0baf-4c00-8050-60377f624948)
 
+Once this is done, keep Microsoft Roblox open on the Home Page.
 
-
+Do not join a game or it will delay the sniper because roblox unloads the previous place before placing you in queue.
