@@ -24,7 +24,7 @@ Click Create New Script.
 
 ![image](https://github.com/user-attachments/assets/9ce3c752-a789-41b5-8fec-0a16e1672040)
 
-Remove everything that is in the premade Tampermonkey script, And Paste "[sniper.js](https://github.com/Lunatic-T/WebSniperGameId/blob/main/sniper.js)" in it.
+Remove everything that is in the  Tampermonkey script, And Paste "[sniper.js](https://github.com/Lunatic-T/WebSniperGameId/blob/main/sniper.js)" in it.
 
 Click Ctrl + S once done (to save the script)
 
